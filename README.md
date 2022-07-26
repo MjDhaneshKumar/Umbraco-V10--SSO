@@ -1,1 +1,1 @@
-# Umbraco-v9-with-Blazor
+# Umbraco-v10-SSO implemetation with OpenId Connect
